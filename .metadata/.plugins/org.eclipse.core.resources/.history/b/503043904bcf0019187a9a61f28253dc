@@ -1,0 +1,29 @@
+/**
+ * 
+ */
+package cody_hello_world;
+
+/**
+ * @author cody.a.christensen
+ *
+ */
+public class Heloow_world {
+
+	/**
+	 * 
+	 */
+	public Heloow_world() {
+			System.out.println("hello world");
+			System.out.priltln("my seckond hellow world")
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

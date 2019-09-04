@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package cody_hello_world;
+
+/**
+ * @author cody.a.christensen
+ *
+ */
+public class Hello_World {
+
+	/**
+	 * 
+	 */
+	public Hello_World() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

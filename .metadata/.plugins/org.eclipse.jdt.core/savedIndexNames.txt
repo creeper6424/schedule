@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\cody.a.christensen\Desktop\projects\.metadata\.plugins\org.eclipse.jdt.core
+2571136588.index
+113558702.index
